@@ -1,0 +1,32 @@
+@import url('https: //cdn.shopify.com/static/fonts/ShopifySans.woff2');
+
+.font-body-shopify {
+    font-family: "ShopifySans", sans-serif;
+}
+
+.text-teal {
+    --tw-bg-opacity: 1;
+    color: rgb(0 128 96 / var(--tw-bg-opacity));
+}
+
+.bg-green-black {
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 45 45 / var(--tw-bg-opacity));
+}
+.bg-teal {
+    --tw-bg-opacity: 1;
+    background-color: rgb(0 128 96 / var(--tw-bg-opacity));
+}
+.bg-dimgray {
+    --tw-bg-opacity: 1;
+    background-color: rgb(149 96 98 / var(--tw-bg-opacity));
+}
+
+.border-teal {
+    --tw-bg-opacity: 1;
+    border-color: rgb(0 128 96 / var(--tw-bg-opacity));
+}
+
+.help-image {
+    vertical-align: middle;
+}
